@@ -1,4 +1,4 @@
-[media]
+[main]
 title = "빵야 TV"
 url = "https://www.bbangyatv.com/main"
 entrySelector = "div[class='d-flex flex-wrap v-card v-card--flat v-sheet theme--light'] div[class='schedule-card v-card v-card--flat v-sheet theme--light']"
