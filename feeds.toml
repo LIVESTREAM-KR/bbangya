@@ -1,5 +1,5 @@
 [main]
-title = "빵야 TV"
+title = "빵야 TV ─ 라이브 일정"
 url = "https://www.bbangyatv.com/main"
 entrySelector = "div[class='d-flex flex-wrap v-card v-card--flat v-sheet theme--light'] div[class='schedule-card v-card v-card--flat v-sheet theme--light']"
 titleSelector = "h4[class='subtitle-1 twoLineEllipsis font-weight-medium']"
