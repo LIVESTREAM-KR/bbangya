@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 00:55:18 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[북부권 권역별 소상공인을 위한 일상회복 콘서트 (빵야 TV ─ 라이브 일정)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/bbangya/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/bbangya/all.xml</guid>
-            <pubDate>Thu, 16 Dec 2021 00:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p data-v-70efa2a2="" class="mb-0 font-weight-bold caption"> 일상회복 콘서트 </p><p data-v-70efa2a2="" class="mb-0 caption"> 2021.12.19 3:00 pm (KST) </p>]]></content:encoded>
-            <enclosure url="https://static.bbangyatv.com/static/thumbnail/thumbnail_recovery.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Merry Ars-mas! YOUNGJAE Special FAN CON (빵야 TV ─ 라이브 일정)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/bbangya/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/bbangya/all.xml</guid>
-            <pubDate>Thu, 16 Dec 2021 00:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p data-v-70efa2a2="" class="mb-0 font-weight-bold caption"> YOUNGJAE Official </p><p data-v-70efa2a2="" class="mb-0 caption"> 2021.12.24 7:00 pm (KST) </p>]]></content:encoded>
-            <enclosure url="https://static.bbangyatv.com/static/thumbnail/thumb_youngjae_211224.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://LIVESTREAM-KR.github.io/bbangya/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2021-12-16T02:02:06.357Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+</feed>
